@@ -1,0 +1,20 @@
+.bcka:hover
+{
+  background-color: rgba(0,0,0,0.1);
+  
+}
+.bckb:hover
+{
+  background-color: rgba(0,0,0,0.1);
+  
+}
+.bckc:hover
+{
+  background-color: rgba(0,0,0,0.1);
+  
+}
+.bckd:hover
+{
+  background-color: rgba(0,0,0,0.1);
+  
+}
